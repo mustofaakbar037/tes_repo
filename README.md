@@ -1,1 +1,1 @@
-# tes_repo
+Fluter adalah sebuah famework open-source yang dikembangkan oleh Google. Tujuan utamanya adalah untuk membangun antarmuka pengguna (UI) untuk aplikasi mobile, web, dan desktop dari satu kode sumber. Dengan menggunakan Flutter, pengembang dapat membuat aplikasi yang indah, responsif, dan cepat dengan menggunakan bahasa pemrograman Dart.
